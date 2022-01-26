@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "Davi Raquel",
+      "email": "davi@davi.com",
+      "social_number": "12345",
+      "area": "desenvolvedor",
+      "prefered_cause": "salvar as criancinhas",
+      "specialty": "procrastinar",
+      "donations": [
+        {
+          "type_of_contribution": "money once",
+          "value": 0,
+          "material": ""
+        },
+        {
+          "type_of_contribution": "money month",
+          "value": 10,
+          "material": ""
+        }
+      ],
+      "volunteer": true,
+      "id": 1
+    }
+  ],
+
+  "partners": [
+    {
+      "name": "ong legal",
+      "description": "Essa ong é muito legal",
+      "cnpj": "123456789",
+      "cause": "causa legal",
+      "logo": "logo_url",
+      "id": 1
+    }
+  ],
+
+  "help": [
+    {
+      "email": "rodrigo@test.com",
+      "password": "$2a$10$zcftouqYIK/2XZkW7PFogexZ77cIUwDAcWPx7SIpyjSOtO8NC8Ice",
+      "name": "Rodrigo",
+      "age": 36,
+      "id": 2
+    }
+  ]
+}
