@@ -43,5 +43,102 @@
       "age": 36,
       "id": 2
     }
+  ], 
+  "useful_phones" :[
+    {
+      "defesa_civil": [
+        {
+          "Nome": "Defesa Cívil",
+          "Descrição": "Suporte à Desastres",
+          "Telefone": "199",
+          "Estado": {},
+          "id": 1
+        }
+      ]
+    },
+    {
+      "policia_militar": [
+        {
+          "Nome": "Polícia Militar",
+          "Descrição": "Emergência Criminal",
+          "Telefone": "190",
+          "Estado": {},
+          "id": 2
+        }
+      ]
+    },
+    {
+      "bombeiros": [
+        {
+          "Nome": "Bombeiros",
+          "Descrição": "Acídentes",
+          "Telefone": "193",
+          "Estado": {},
+          "id": 3
+        }
+      ]
+    },
+    {
+      "policia_rodoviaria_federal": [
+        {
+          "Nome": "Polícia Rodoviaria Federal",
+          "Descrição": "Emergência Vias Federais",
+          "Telefone": "191",
+          "Estado": {},
+          "id": 4
+        }
+      ]
+    },
+    {
+      "policia_rodoviaria_estadual": [
+        {
+          "Nome": "Polícia Rodovíaria Estadual",
+          "Descrição": "Emergência Vias Estaduais",
+          "Telefone": "198",
+          "Estado": {},
+          "id": 5
+        }
+      ]
+    },
+    {
+      "defensoria_publica": [
+        {
+          "Nome": "Defensoria Publica",
+          "Descrição": "Suporte Júridico",
+          "Telefone": "",
+          "Estado": {
+            "AC": "(68)-3223-2554",
+            "AL": "(82)-3315-2782",
+            "AP": "(96)-3131-2760",
+            "AM": "(92)-3633-2955",
+            "BA": "(71)-3117-9002",
+            "CE": "(85)-3101-3424",
+            "DF": "(61)-2196-4457",
+            "ES": "(27)-3198-3300",
+            "GO": "(62)-3201-3506",
+            "MA": "(98)-3221-3336",
+            "MT": "(65)-3648-8400",
+            "MS": "(67)-3318-2502",
+            "MG": "(31)-3526-0311",
+            "PA": "(91)-3201-2713",
+            "PB": "(83)-3218-4503",
+            "PR": "(41)-3313-7390",
+            "PE": "(81)-3182-3702",
+            "PI": "(86)-3234-1205",
+            "RJ": "(21)-2332-6190",
+            "RN": "(84)-3232-7451",
+            "RS": "(51)-3210-9407",
+            "RO": "(69)-3217-4700",
+            "RR": "(95)-2121-0280",
+            "SC": "(48)-3665-5665",
+            "SP": "(11)-3106-1888",
+            "SE": "(79)-3205-3830",
+            "TO": "(63)-3218.6736 "
+          },
+          "id": 6
+        }
+      ]
+    }
   ]
+  
 }
