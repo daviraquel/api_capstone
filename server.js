@@ -12,6 +12,7 @@ const rules = auth.rewriter({
   users: 600,
   partners: 444,
   help: 444,
+  useful_phones: 444,
 });
 
 app.use(cors());
