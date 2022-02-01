@@ -21,9 +21,15 @@
       ],
       "volunteer": true,
       "id": 1
+    },
+    {
+      "email": "josue@gmail.com.br",
+      "password": "$2a$10$TzfBpsH5KEbVpaJaRSDTzOkNNclOfsjfF2XeRTlLHQeeZgCV57td.",
+      "name": "josue",
+      "age": 23,
+      "id": 2
     }
   ],
-
   "partners": [
     {
       "name": "ong legal",
@@ -34,7 +40,6 @@
       "id": 1
     }
   ],
-
   "help": [
     {
       "email": "rodrigo@test.com",
