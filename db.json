@@ -37,7 +37,7 @@
       "id": 1
     },
     {
-      "name": "CUFA - Central Única das Favelas",
+      "name": "CUFA",
       "description": "A CUFA (Central Única das Favelas) é uma organização brasileira reconhecida nacional e internacionalmente nos âmbitos político, social, esportivo e cultural que existe há 20 anos.",
       "cnpj": "123456789",
       "cause": "Humanitária",
@@ -57,7 +57,7 @@
       "id": 3
     },
     {
-      "name": "ISA - Instituto Socioambiental ",
+      "name": "ISA",
       "description": "Socioambiental",
       "cnpj": "123456789",
       "cause": "O Instituto Socioambiental (ISA) é uma organização da sociedade civil brasileira, sem fins lucrativos, fundada em 1994, para propor soluções de forma integrada a questões sociais e ambientais com foco central na defesa de bens e direitos sociais, coletivos e difusos relativos ao meio ambiente, ao patrimônio cultural, aos direitos humanos e dos povos.",
@@ -87,8 +87,8 @@
       "id": 6
     },
     {
-      "name": "APIB - Articulação dos Povos Indígenas do Brasil",
-      "description": "A Apib é uma instância de referência nacional do movimento indígena no Brasil, criada de baixo pra cima. Ela aglutina nossas organizações regionais indígenas e nasceu com o propósito de fortalecer a união de nossos povos, a articulação entre as diferentes regiões e organizações indígenas do país, além de mobilizar os povos e organizações indígenas contra as ameaças e agressões aos direitos indígenas.",
+      "name": "APIB",
+      "description": "A Apib (Articulação dos Povos Indígenas do Brasil) é uma instância de referência nacional do movimento indígena no Brasil, criada de baixo pra cima. Ela aglutina nossas organizações regionais indígenas e nasceu com o propósito de fortalecer a união de nossos povos, a articulação entre as diferentes regiões e organizações indígenas do país, além de mobilizar os povos e organizações indígenas contra as ameaças e agressões aos direitos indígenas.",
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Seguridade Social",
@@ -127,7 +127,7 @@
       "id": 10
     },
     {
-      "name": "AVABRUM - Associação dos familiares de vitimas e atingidos pelo rompimento da barragem mina Córrego do Feijão ",
+      "name": "AVABRUM",
       "description": "A Associação dos familaires de vitimas e atingidos da tragédia do rompimento da barragem mina córrego feijão, destinada a lutar pela defesa de todos os direitos e interesses dos que sofreram com a morte de seus entes queridos",
       "cnpj": "123456789",
       "cause": "Humanitária",
@@ -151,7 +151,7 @@
     {
       "defesa_civil": [
         {
-          "Nome": "Defesa Cívil",
+          "Nome": "Defesa Civil",
           "Descrição": "Suporte à Desastres",
           "Telefone": "199",
           "Estado": {},
@@ -174,7 +174,7 @@
       "bombeiros": [
         {
           "Nome": "Bombeiros",
-          "Descrição": "Acídentes",
+          "Descrição": "Acidentes",
           "Telefone": "193",
           "Estado": {},
           "id": 3
@@ -195,7 +195,7 @@
     {
       "policia_rodoviaria_estadual": [
         {
-          "Nome": "Polícia Rodovíaria Estadual",
+          "Nome": "Polícia Rodoviaria Estadual",
           "Descrição": "Emergência Vias Estaduais",
           "Telefone": "198",
           "Estado": {},
@@ -206,7 +206,7 @@
     {
       "defensoria_publica": [
         {
-          "Nome": "Defensoria Publica",
+          "Nome": "Defensoria Pública",
           "Descrição": "Suporte Júridico",
           "Telefone": "",
           "Estado": {
