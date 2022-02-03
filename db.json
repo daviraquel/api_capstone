@@ -32,7 +32,8 @@
       "cnpj": "123456789",
       "cause": "Socioambiental",
       "type": "Preservação Ambiental",
-      "logo": "https://www.greenpeace.org/brasil/wp-content/themes/planet4-master-theme/images/gp-logo.svg",
+      "logo-wide": "https://i.ibb.co/sWWt01D/greenpeace-wide.png",
+      "logo-square": "https://i.ibb.co/p313zyf/greenpeace-sqr.png",
       "site": "https://www.greenpeace.org/brasil/conheca-o-greenpeace/?utm_term=green%20peace&utm_campaign=%5BMAIO/20%5D+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7235609613&hsa_cam=10034725105&hsa_grp=100522293589&hsa_ad=444409237375&hsa_src=g&hsa_tgt=kwd-10941561&hsa_kw=green%20peace&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiArt6PBhCoARIsAMF5wah9zx1E8Jo2_NntYNFeoZ-e-CPecgxhkZ9Bp3JeZ1UWmvgktgJOnYsaAhN_EALw_wcB",
       "id": 1
     },
@@ -42,7 +43,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Seguridade Social",
-      "logo": "https://images.sympla.com.br/5de5559df2668.jpg",
+      "logo-wide": "https://i.ibb.co/tHgTT1F/cufa-wide.png",
+      "logo-square": "https://i.ibb.co/344HMSy/cufa-sqr.png",
       "site": "https://www.cufa.org.br/",
       "id": 2
     },
@@ -52,7 +54,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Saúde",
-      "logo": "https://www.jornalmedico.pt/media/k2/items/cache/9c0b0ef8039c31f8b780525600747824_L.jpg",
+      "logo-wide": "https://i.ibb.co/S70HMB9/medicos-sem-fronteiras-wide.png",
+      "logo-square": "https://i.ibb.co/4VwLb9f/medicos-sem-fronteiras-sqr.png",
       "site": "https://www.msf.org.br/",
       "id": 3
     },
@@ -62,7 +65,8 @@
       "cnpj": "123456789",
       "cause": "O Instituto Socioambiental (ISA) é uma organização da sociedade civil brasileira, sem fins lucrativos, fundada em 1994, para propor soluções de forma integrada a questões sociais e ambientais com foco central na defesa de bens e direitos sociais, coletivos e difusos relativos ao meio ambiente, ao patrimônio cultural, aos direitos humanos e dos povos.",
       "type": "Preservação Ambiental e Seguridade Social",
-      "logo": "https://www.cozinhareconectiva.com.br/wp-content/uploads/2019/05/51ABB847-66D7-457B-A752-B18694BC70BA_700x187.jpg",
+      "logo-wide": "https://i.ibb.co/VgW9LhD/isa-wide.png",
+      "logo-square": "https://i.ibb.co/dbXd4Bk/isa-sqr.png",
       "site": "https://www.socioambiental.org/pt-br",
       "id": 4
     },
@@ -72,7 +76,8 @@
       "cnpj": "123456789",
       "cause": "Socioambiental",
       "type": "Preservação Ambiental",
-      "logo": "https://apremavi.org.br/wp-content/uploads/2022/01/apremavi-35-anos-horizontal.png.webp",
+      "logo-wide": "https://i.ibb.co/SBNrjbb/apremavi-wide.png",
+      "logo-square": "https://i.ibb.co/Q9XRNdp/apremavi-sqr.png",
       "site": "https://apremavi.org.br/",
       "id": 5
     },
@@ -82,7 +87,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Assessoria Jurídica",
-      "logo": "https://probono.org.br/wp-content/themes/probono/images/logo20.png",
+      "logo-wide": "https://i.ibb.co/brFfTp7/probono-wide.png",
+      "logo-square": "https://i.ibb.co/B6dhvrn/probono-sqr.png",
       "site": "https://probono.org.br/doe/",
       "id": 6
     },
@@ -92,7 +98,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Seguridade Social",
-      "logo": "https://ifnotusthenwho.me/wp-content/uploads/2018/10/APIB-logo-sq.png",
+      "logo-wide": "https://i.ibb.co/LYp72sZ/apib-wide.png",
+      "logo-square": "https://i.ibb.co/2K0g5hQ/apib-sqr.png",
       "site": "https://apiboficial.org/",
       "id": 7
     },
@@ -102,7 +109,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Moradia",
-      "logo": "https://d335luupugsy2.cloudfront.net/cms/files/131216/1594994647/$stdxgqn7aw",
+      "logo-wide": "https://i.ibb.co/H4QhbmS/teto-wide.png",
+      "logo-square": "https://i.ibb.co/mGKGJNr/teto-sqr.png",
       "site": "https://teto.org.br/",
       "id": 8
     },
@@ -112,7 +120,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Saúde",
-      "logo": "http://www.cruzvermelha.org.br/wp-content/uploads/2016/07/logo.png",
+      "logo-wide": "https://i.ibb.co/jHqrHrj/habitat-wide.png",
+      "logo-square": "https://i.ibb.co/VSnQbbS/habitat-sqr.png",
       "site": "http://www.cruzvermelha.org.br/pb/",
       "id": 9
     },
@@ -132,7 +141,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Assessoria Jurídica",
-      "logo": "https://static.portaldacidade.com/unsafe/https://s3.amazonaws.com/brumadinho.portaldacidade.com/img/news/2021-08/avabrum-tem-nova-mesa-diretora-e-conselho-fiscal-para-bienio-6123983a96516.png",
+      "logo-wide": "https://i.ibb.co/88f0PCh/avabrum-wide.png",
+      "logo-square": "https://i.ibb.co/6gcXQ9H/avabrum-sqr.png",
       "site": "https://avabrum.org.br/",
       "id": 11
     },
@@ -142,7 +152,8 @@
       "cnpj": "123456789",
       "cause": "Socioambiental",
       "type": "Preservação Ambiental",
-      "logo": "https://www.copaiba.org.br/wp-content/uploads/2017/01/SOS-Mata-Atlantica.jpg",
+      "logo-wide": "https://i.ibb.co/PZMHCPj/sos-mata-atlantica-wide.png",
+      "logo-square": "https://i.ibb.co/3chTPms/sos-mata-atlantica-sqr.png",
       "site": "https://www.sosma.org.br/",
       "id": 12
     }
