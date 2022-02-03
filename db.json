@@ -120,8 +120,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Saúde",
-      "logoWide": "https://i.ibb.co/jHqrHrj/habitat-wide.png",
-      "logoSquare": "https://i.ibb.co/VSnQbbS/habitat-sqr.png",
+      "logoWide": "https://i.ibb.co/2jbr0RM/cruz-vermelha-wide.png",
+      "logoSquare": "https://i.ibb.co/7QPgMh4/cruz-vermelha-sqr.png",
       "site": "http://www.cruzvermelha.org.br/pb/",
       "id": 9
     },
@@ -131,7 +131,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Moradia",
-      "logo": "https://www.unidoscontraovirus.com.br/wp-content/uploads/2020/04/logo-habitat-para-a-humanidade-brasil.png",
+      "logoWide": "https://i.ibb.co/jHqrHrj/habitat-wide.png",
+      "logoSquare": "https://i.ibb.co/VSnQbbS/habitat-sqr.png",
       "site": "https://habitatbrasil.org.br/",
       "id": 10
     },
