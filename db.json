@@ -61,10 +61,10 @@
     },
     {
       "name": "ISA",
-      "description": "Socioambiental",
+      "description": "O Instituto Socioambiental (ISA) é uma organização da sociedade civil brasileira, sem fins lucrativos, fundada em 1994, para propor soluções de forma integrada a questões sociais e ambientais com foco central na defesa de bens e direitos sociais, coletivos e difusos relativos ao meio ambiente, ao patrimônio cultural, aos direitos humanos e dos povos.",
       "cnpj": "123456789",
-      "cause": "O Instituto Socioambiental (ISA) é uma organização da sociedade civil brasileira, sem fins lucrativos, fundada em 1994, para propor soluções de forma integrada a questões sociais e ambientais com foco central na defesa de bens e direitos sociais, coletivos e difusos relativos ao meio ambiente, ao patrimônio cultural, aos direitos humanos e dos povos.",
-      "type": "Preservação Ambiental e Seguridade Social",
+      "cause": "Socioambiental",
+      "type": "Preservação Ambiental",
       "logo-wide": "https://i.ibb.co/VgW9LhD/isa-wide.png",
       "logo-square": "https://i.ibb.co/dbXd4Bk/isa-sqr.png",
       "site": "https://www.socioambiental.org/pt-br",
