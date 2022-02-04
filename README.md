@@ -3,6 +3,9 @@
 # API SOS Brasil
 
 Esse é o repositório da API do projeto capstone SOS Brasil, elaborado pelo grupo 1 do facilitador Wesley.
+```
+URL base: https://capstone-api-grupo-1.herokuapp.com
+```
 
 # Endpoints
 
