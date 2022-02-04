@@ -28,23 +28,6 @@
       "value": 0,
       "userId": 1,
       "id": 1
-    },
-    {
-      "type_of_contribution": "once",
-      "value": 200,
-      "userId": 3,
-      "id": 2
-    },
-    {
-      "type_of_contribution": "once",
-      "value": 200,
-      "id": 3
-    },
-    {
-      "type_of_contribution": "once",
-      "value": 200,
-      "userId": 3,
-      "id": 4
     }
   ],
   "partners": [
@@ -54,17 +37,19 @@
       "cnpj": "123456789",
       "cause": "Socioambiental",
       "type": "Preservação Ambiental",
-      "logo": "https://www.greenpeace.org/brasil/wp-content/themes/planet4-master-theme/images/gp-logo.svg",
+      "logoWide": "https://i.ibb.co/sWWt01D/greenpeace-wide.png",
+      "logoSquare": "https://i.ibb.co/p313zyf/greenpeace-sqr.png",
       "site": "https://www.greenpeace.org/brasil/conheca-o-greenpeace/?utm_term=green%20peace&utm_campaign=%5BMAIO/20%5D+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7235609613&hsa_cam=10034725105&hsa_grp=100522293589&hsa_ad=444409237375&hsa_src=g&hsa_tgt=kwd-10941561&hsa_kw=green%20peace&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiArt6PBhCoARIsAMF5wah9zx1E8Jo2_NntYNFeoZ-e-CPecgxhkZ9Bp3JeZ1UWmvgktgJOnYsaAhN_EALw_wcB",
       "id": 1
     },
     {
-      "name": "CUFA - Central Única das Favelas",
+      "name": "CUFA",
       "description": "A CUFA (Central Única das Favelas) é uma organização brasileira reconhecida nacional e internacionalmente nos âmbitos político, social, esportivo e cultural que existe há 20 anos.",
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Seguridade Social",
-      "logo": "https://images.sympla.com.br/5de5559df2668.jpg",
+      "logoWide": "https://i.ibb.co/tHgTT1F/cufa-wide.png",
+      "logoSquare": "https://i.ibb.co/344HMSy/cufa-sqr.png",
       "site": "https://www.cufa.org.br/",
       "id": 2
     },
@@ -74,17 +59,19 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Saúde",
-      "logo": "https://www.jornalmedico.pt/media/k2/items/cache/9c0b0ef8039c31f8b780525600747824_L.jpg",
+      "logoWide": "https://i.ibb.co/S70HMB9/medicos-sem-fronteiras-wide.png",
+      "logoSquare": "https://i.ibb.co/4VwLb9f/medicos-sem-fronteiras-sqr.png",
       "site": "https://www.msf.org.br/",
       "id": 3
     },
     {
-      "name": "ISA - Instituto Socioambiental ",
-      "description": "Socioambiental",
+      "name": "ISA",
+      "description": "O Instituto Socioambiental (ISA) é uma organização da sociedade civil brasileira, sem fins lucrativos, fundada em 1994, para propor soluções de forma integrada a questões sociais e ambientais com foco central na defesa de bens e direitos sociais, coletivos e difusos relativos ao meio ambiente, ao patrimônio cultural, aos direitos humanos e dos povos.",
       "cnpj": "123456789",
       "cause": "Socioambiental",
-      "type": "Preservação Ambiental e Seguridade Social",
-      "logo": "https://www.cozinhareconectiva.com.br/wp-content/uploads/2019/05/51ABB847-66D7-457B-A752-B18694BC70BA_700x187.jpg",
+      "type": "Preservação Ambiental",
+      "logoWide": "https://i.ibb.co/VgW9LhD/isa-wide.png",
+      "logoSquare": "https://i.ibb.co/dbXd4Bk/isa-sqr.png",
       "site": "https://www.socioambiental.org/pt-br",
       "id": 4
     },
@@ -94,7 +81,8 @@
       "cnpj": "123456789",
       "cause": "Socioambiental",
       "type": "Preservação Ambiental",
-      "logo": "https://apremavi.org.br/wp-content/uploads/2022/01/apremavi-35-anos-horizontal.png.webp",
+      "logoWide": "https://i.ibb.co/SBNrjbb/apremavi-wide.png",
+      "logoSquare": "https://i.ibb.co/Q9XRNdp/apremavi-sqr.png",
       "site": "https://apremavi.org.br/",
       "id": 5
     },
@@ -104,17 +92,19 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Assessoria Jurídica",
-      "logo": "https://probono.org.br/wp-content/themes/probono/images/logo20.png",
+      "logoWide": "https://i.ibb.co/brFfTp7/probono-wide.png",
+      "logoSquare": "https://i.ibb.co/B6dhvrn/probono-sqr.png",
       "site": "https://probono.org.br/doe/",
       "id": 6
     },
     {
-      "name": "APIB - Articulação dos Povos Indígenas do Brasil",
-      "description": "A Apib é uma instância de referência nacional do movimento indígena no Brasil, criada de baixo pra cima. Ela aglutina nossas organizações regionais indígenas e nasceu com o propósito de fortalecer a união de nossos povos, a articulação entre as diferentes regiões e organizações indígenas do país, além de mobilizar os povos e organizações indígenas contra as ameaças e agressões aos direitos indígenas.",
+      "name": "APIB",
+      "description": "A Apib (Articulação dos Povos Indígenas do Brasil) é uma instância de referência nacional do movimento indígena no Brasil, criada de baixo pra cima. Ela aglutina nossas organizações regionais indígenas e nasceu com o propósito de fortalecer a união de nossos povos, a articulação entre as diferentes regiões e organizações indígenas do país, além de mobilizar os povos e organizações indígenas contra as ameaças e agressões aos direitos indígenas.",
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Seguridade Social",
-      "logo": "https://ifnotusthenwho.me/wp-content/uploads/2018/10/APIB-logo-sq.png",
+      "logoWide": "https://i.ibb.co/LYp72sZ/apib-wide.png",
+      "logoSquare": "https://i.ibb.co/2K0g5hQ/apib-sqr.png",
       "site": "https://apiboficial.org/",
       "id": 7
     },
@@ -124,7 +114,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Moradia",
-      "logo": "https://d335luupugsy2.cloudfront.net/cms/files/131216/1594994647/$stdxgqn7aw",
+      "logoWide": "https://i.ibb.co/H4QhbmS/teto-wide.png",
+      "logoSquare": "https://i.ibb.co/mGKGJNr/teto-sqr.png",
       "site": "https://teto.org.br/",
       "id": 8
     },
@@ -134,7 +125,8 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Saúde",
-      "logo": "http://www.cruzvermelha.org.br/wp-content/uploads/2016/07/logo.png",
+      "logoWide": "https://i.ibb.co/2jbr0RM/cruz-vermelha-wide.png",
+      "logoSquare": "https://i.ibb.co/7QPgMh4/cruz-vermelha-sqr.png",
       "site": "http://www.cruzvermelha.org.br/pb/",
       "id": 9
     },
@@ -144,17 +136,19 @@
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Moradia",
-      "logo": "https://www.unidoscontraovirus.com.br/wp-content/uploads/2020/04/logo-habitat-para-a-humanidade-brasil.png",
+      "logoWide": "https://i.ibb.co/jHqrHrj/habitat-wide.png",
+      "logoSquare": "https://i.ibb.co/VSnQbbS/habitat-sqr.png",
       "site": "https://habitatbrasil.org.br/",
       "id": 10
     },
     {
-      "name": "AVABRUM - Associação dos familiares de vitimas e atingidos pelo rompimento da barragem mina Córrego do Feijão ",
+      "name": "AVABRUM",
       "description": "A Associação dos familaires de vitimas e atingidos da tragédia do rompimento da barragem mina córrego feijão, destinada a lutar pela defesa de todos os direitos e interesses dos que sofreram com a morte de seus entes queridos",
       "cnpj": "123456789",
       "cause": "Humanitária",
       "type": "Assessoria Jurídica",
-      "logo": "https://static.portaldacidade.com/unsafe/https://s3.amazonaws.com/brumadinho.portaldacidade.com/img/news/2021-08/avabrum-tem-nova-mesa-diretora-e-conselho-fiscal-para-bienio-6123983a96516.png",
+      "logoWide": "https://i.ibb.co/88f0PCh/avabrum-wide.png",
+      "logoSquare": "https://i.ibb.co/6gcXQ9H/avabrum-sqr.png",
       "site": "https://avabrum.org.br/",
       "id": 11
     },
@@ -164,7 +158,8 @@
       "cnpj": "123456789",
       "cause": "Socioambiental",
       "type": "Preservação Ambiental",
-      "logo": "https://www.copaiba.org.br/wp-content/uploads/2017/01/SOS-Mata-Atlantica.jpg",
+      "logoWide": "https://i.ibb.co/PZMHCPj/sos-mata-atlantica-wide.png",
+      "logoSquare": "https://i.ibb.co/3chTPms/sos-mata-atlantica-sqr.png",
       "site": "https://www.sosma.org.br/",
       "id": 12
     }
@@ -173,7 +168,7 @@
     {
       "defesa_civil": [
         {
-          "Nome": "Defesa Cívil",
+          "Nome": "Defesa Civil",
           "Descrição": "Suporte à Desastres",
           "Telefone": "199",
           "Estado": {},
@@ -196,7 +191,7 @@
       "bombeiros": [
         {
           "Nome": "Bombeiros",
-          "Descrição": "Acídentes",
+          "Descrição": "Acidentes",
           "Telefone": "193",
           "Estado": {},
           "id": 3
@@ -217,7 +212,7 @@
     {
       "policia_rodoviaria_estadual": [
         {
-          "Nome": "Polícia Rodovíaria Estadual",
+          "Nome": "Polícia Rodoviaria Estadual",
           "Descrição": "Emergência Vias Estaduais",
           "Telefone": "198",
           "Estado": {},
@@ -228,7 +223,7 @@
     {
       "defensoria_publica": [
         {
-          "Nome": "Defensoria Publica",
+          "Nome": "Defensoria Pública",
           "Descrição": "Suporte Júridico",
           "Telefone": "",
           "Estado": {
