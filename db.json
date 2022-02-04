@@ -13,9 +13,15 @@
       "name": "josue",
       "age": 23,
       "id": 2
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$Gm0v43bOHIYr1dcdCKPGUOVzK4JBfXycwj/64ILjyzJB.APSfs1Wu",
+      "name": "teste",
+      "social_number": "1234",
+      "id": 3
     }
   ],
-
   "donations": [
     {
       "type_of_contribution": "once",
@@ -24,7 +30,6 @@
       "id": 1
     }
   ],
-
   "partners": [
     {
       "name": "Greenpeace Brasil",
