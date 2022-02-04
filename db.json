@@ -13,17 +13,40 @@
       "name": "josue",
       "age": 23,
       "id": 2
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "$2a$10$Gm0v43bOHIYr1dcdCKPGUOVzK4JBfXycwj/64ILjyzJB.APSfs1Wu",
+      "name": "teste",
+      "social_number": "1234",
+      "id": 3
     }
   ],
-
   "donations": [
     {
       "type_of_contribution": "once",
       "value": 0,
-      "userId": 1
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "type_of_contribution": "once",
+      "value": 200,
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "type_of_contribution": "once",
+      "value": 200,
+      "id": 3
+    },
+    {
+      "type_of_contribution": "once",
+      "value": 200,
+      "userId": 3,
+      "id": 4
     }
   ],
-
   "partners": [
     {
       "name": "Greenpeace Brasil",
